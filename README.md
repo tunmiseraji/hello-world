@@ -1,3 +1,3 @@
 # hello-world
-first repository
+First repository
 Trying to create my first repo. Getting started with github
